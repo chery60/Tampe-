@@ -19,6 +19,11 @@ this is the open page-
 
 ![android mobile 10](https://user-images.githubusercontent.com/31507308/51835644-1800a100-2324-11e9-81bd-a559db3b2e1f.png)
 
+this is the menu-
+
+![android mobile 3](https://user-images.githubusercontent.com/31507308/51835697-44b4b880-2324-11e9-849e-b43078338cd2.png)
+
+
 
 
 
