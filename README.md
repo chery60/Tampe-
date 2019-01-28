@@ -15,6 +15,11 @@ this is the sign up page-
 
 ![android mobile 8](https://user-images.githubusercontent.com/31507308/51835428-62355280-2323-11e9-8f5d-169d0d862442.png)
 
+this is the open page-
+
+![android mobile 10](https://user-images.githubusercontent.com/31507308/51835644-1800a100-2324-11e9-81bd-a559db3b2e1f.png)
+
+
 
 
 
